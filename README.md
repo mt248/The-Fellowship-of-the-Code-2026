@@ -7,9 +7,10 @@
 We are 5 hobbits on our great journey from the Shire to Mordor. Along the way, we need a system to support **our planning, decisions,  communication, and survival.**
 The Fellowship Companion is a **evolving digital tool** we build together. It is not perfect, it is not finished - it evolves as we travel.
 
-**<ul><li>Who we are:** The Fellowship - a group of 5 hobbits (students) working together.<br/>
-**<li>What we build:** A companion system that helps manage our journey, resources, and tasks.<br/>
-**<li>Why we build it:** So our journey succeeds and we understand the mindset, logic, design, and practice of developers.</ul>
+<ul>
+<li><strong>Who we are:</strong> The Fellowship - a group of 5 hobbits (students) working together.
+<li><strong>What we build:</strong> A companion system that helps manage our journey, resources, and tasks.
+<li><strong>Why we build it:</strong> So our journey succeeds and we understand the mindset, logic, design, and practice of developers.</ul>
 
 ## Rules of our Journey
 
@@ -24,39 +25,41 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 
 <ol>
 <li value = "1"><b>Chapter I - Setting Out</b></li>
-“I will take the Ring, though I do not know the way.” - Frodo
-
+<i>“I will take the Ring, though I do not know the way.” - Frodo</i>
+<p></p>
 Go to Chapter I →
-
+<p></p>
 <li><b>Chapter II - Paths & Choices</b></li>
-“All we have to decide is what to do with the time that is given us.” - Gandalf
-
+<i>“All we have to decide is what to do with the time that is given us.” - Gandalf</i>
+<p></p>
 Go to Chapter II →
-
+<p></p>
 <li><b>Chapter III - Making It Visible</b></li>
-“I like less than half of you half as well as you deserve.” - Bilbo
-
+<i>“I like less than half of you half as well as you deserve.” - Bilbo</i>
+<p></p>
 Go to Chapter III →
-
+<p></p>
 <li><b>Chapter IV - When Things React</b></li>
-“Even the wise cannot see all ends.” - Gandalf
-
+<i>“Even the wise cannot see all ends.” - Gandalf</i>
+<p></p>
 Go to Chapter IV →
-
+<p></p>
 <li><b>Chapter V - The Tale Continues</b></li>
-“The tale grew in the telling.” - Bilbo
-
+<i>“The tale grew in the telling.” - Bilbo</i>
+<p></p>
 Go to Chapter V →
+<p></p>
+
 
 ## Key Features of The Fellowship Companion
 
-Golberries
-
-**<ul><li>Journey Planning:** map tasks, flows, and deadlines
-**<li>Resource Management:** track fictional “hobbit resources” (food, supplies, morale)
-**<li>Decision Support:** flows and logic for key choices on the journey
-**<li>Communication:** share work, reflections, and AI learnings
-**<li>Versioned & Evolving:** artifacts build on each other, tracked in The Red Book</ul>
+### Golberries
+<ul>
+<li><strong>Journey Planning:</strong> map tasks, flows, and deadlines
+<li><strong>Resource Management:</strong> track fictional “hobbit resources” (food, supplies, morale)
+<li><strong>Decision Support:</strong> flows and logic for key choices on the journey
+<li><strong>Communication:</strong> share work, reflections, and AI learnings
+<li><strong>Versioned & Evolving:</strong> artifacts build on each other, tracked in The Red Book</ul>
 
 ## Changelog
 This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).

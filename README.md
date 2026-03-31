@@ -1,16 +1,16 @@
-# The-Fellowship-of-the-Code-2026
+<h1> The-Fellowship-of-the-Code-2026</h1>
 
-## Purpose of The Fellowship Companion (TFC)
+<h2>Purpose of The Fellowship Companion (TFC)</h2>
 
-### Goldberries
+<h3>Goldberries</h3>
 
 We are 5 hobbits on our great journey from the Shire to Mordor. Along the way, we need a system to support **our planning, decisions,  communication, and survival.**
 The Fellowship Companion is a **evolving digital tool** we build together. It is not perfect, it is not finished - it evolves as we travel.
 
 <ul>
-<li><strong>Who we are:</strong> The Fellowship - a group of 5 hobbits (students) working together.
-<li><strong>What we build:</strong> A companion system that helps manage our journey, resources, and tasks.
-<li><strong>Why we build it:</strong> So our journey succeeds and we understand the mindset, logic, design, and practice of developers.</ul>
+<li><strong>Who we are:</strong> The Fellowship - a group of 5 hobbits (students) working together.</li>
+<li><strong>What we build:</strong> A companion system that helps manage our journey, resources, and tasks.</li>
+<li><strong>Why we build it:</strong> So our journey succeeds and we understand the mindset, logic, design, and practice of developers.</li></ul>
 
 <h2>Rules of our Journey</h2>
 
@@ -48,18 +48,17 @@ Go to Chapter IV →
 <i>“The tale grew in the telling.” - Bilbo</i>
 <p></p>
 Go to Chapter V →
-<p></p>
 
 <h2>Key Features of The Fellowship Companion</h2>
 
 <h3>Golberries</h3>
 
 <ul>
-<li><strong>Journey Planning:</strong> map tasks, flows, and deadlines
-<li><strong>Resource Management:</strong> track fictional “hobbit resources” (food, supplies, morale)
-<li><strong>Decision Support:</strong> flows and logic for key choices on the journey
-<li><strong>Communication:</strong> share work, reflections, and AI learnings
-<li><strong>Versioned & Evolving:</strong> artifacts build on each other, tracked in The Red Book</ul>
+<li><strong>Journey Planning:</strong> map tasks, flows, and deadlines</li>
+<li><strong>Resource Management:</strong> track fictional “hobbit resources” (food, supplies, morale)</li>
+<li><strong>Decision Support:</strong> flows and logic for key choices on the journey</li>
+<li><strong>Communication:</strong> share work, reflections, and AI learnings</li>
+<li><strong>Versioned & Evolving:</strong> artifacts build on each other, tracked in The Red Book</li></ul>
 
 <h2>Changelog</h2>
 This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).

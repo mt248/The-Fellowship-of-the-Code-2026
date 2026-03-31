@@ -12,7 +12,7 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 <li><strong>What we build:</strong> A companion system that helps manage our journey, resources, and tasks.
 <li><strong>Why we build it:</strong> So our journey succeeds and we understand the mindset, logic, design, and practice of developers.</ul>
 
-## Rules of our Journey
+<h2>Rules of our Journey</h2>
 
 <ul>
 <li>All artifacts live in <b>this GitHub repo.</b></li>
@@ -21,10 +21,10 @@ The Fellowship Companion is a **evolving digital tool** we build together. It is
 <li><b>The Red Book of Westmark</b> (README.md + chapters/) is our reflection log and living changelog.</li>
 </ul>
 
-## Chapters
+<h2>Chapters</h2>
 
 <ol>
-<li value = "1"><b>Chapter I - Setting Out</b></li>
+<li><b>Chapter I - Setting Out</b></li>
 <i>“I will take the Ring, though I do not know the way.” - Frodo</i>
 <p></p>
 Go to Chapter I →
@@ -51,9 +51,9 @@ Go to Chapter V →
 <p></p>
 
 
-## Key Features of The Fellowship Companion
+<h2>Key Features of The Fellowship Companion</hr>
 
-### Golberries
+<h3>Golberries</h3>
 <ul>
 <li><strong>Journey Planning:</strong> map tasks, flows, and deadlines
 <li><strong>Resource Management:</strong> track fictional “hobbit resources” (food, supplies, morale)
@@ -61,7 +61,7 @@ Go to Chapter V →
 <li><strong>Communication:</strong> share work, reflections, and AI learnings
 <li><strong>Versioned & Evolving:</strong> artifacts build on each other, tracked in The Red Book</ul>
 
-## Changelog
+<h2>Changelog</h2>
 This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).
 
 Each chapter has its own detailed changelog for chapter-specific updates.

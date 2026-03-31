@@ -50,10 +50,10 @@ Go to Chapter IV →
 Go to Chapter V →
 <p></p>
 
-
-<h2>Key Features of The Fellowship Companion</hr>
+<h2>Key Features of The Fellowship Companion</h2>
 
 <h3>Golberries</h3>
+
 <ul>
 <li><strong>Journey Planning:</strong> map tasks, flows, and deadlines
 <li><strong>Resource Management:</strong> track fictional “hobbit resources” (food, supplies, morale)
